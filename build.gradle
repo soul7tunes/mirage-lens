@@ -1,0 +1,2 @@
+// Root build file. Plugin versions are declared in app/build.gradle.
+// Repositories are declared in settings.gradle.
