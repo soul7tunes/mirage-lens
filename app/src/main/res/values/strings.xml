@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mirage Lens</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="analyse">Analyse Photo</string>
+    <string name="model_loading">Loading AI model… please wait</string>
+    <string name="model_ready">Ready — fully offline, no internet needed</string>
+    <string name="model_failed">Could not load the AI model. Please restart the app.</string>
+    <string name="no_photo">Take or choose a photo first</string>
+    <string name="analysing">Analysing…</string>
+    <string name="camera_denied">Camera permission is needed to take a photo. You can still choose a photo from gallery.</string>
+    <string name="scene_title">What I see</string>
+    <string name="text_title">Text in the photo</string>
+    <string name="objects_title">Objects found</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="note">Note: English text reads best. Hindi text is not read correctly yet.</string>
+</resources>
